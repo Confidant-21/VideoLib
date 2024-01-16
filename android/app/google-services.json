@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019005016681",
+    "project_id": "flux-frame",
+    "storage_bucket": "flux-frame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019005016681:android:69d5e5010673a138c420f8",
+        "android_client_info": {
+          "package_name": "com.example.videolib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7c3zIbMRQp9nRsDV7DGbSatqTShyleU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
